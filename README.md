@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Samuel Boakye Yiadom
+## Hi there 👋 I'm Samuel Boakye Yiadom
 
 <!--
 **sammyjay076/sammyjay076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
