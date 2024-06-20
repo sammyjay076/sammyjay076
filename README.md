@@ -15,4 +15,4 @@ Hello, world! 🌍 I'm a passionate software engineer with a deep-rooted love fo
 - 📫 How to reach me: boakyesamuel076@gmail.com
 - ⚡ Fun fact: ... Coding will soon be as important as reading
 
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sammyjay076)](https://github.com/anuraghazra/github-readme-stats)
+  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sammyjay076&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
