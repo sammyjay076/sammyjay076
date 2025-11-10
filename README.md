@@ -118,12 +118,10 @@
 
 ## Contact
 
-- 📫 Email: boakyesamuel076@gamil.com  
+- 📫 Email: boakyesamuel076@mail.com
 - 💼 Open to: Freelance & collaboration  
 - 🐦 Best contact: DM on [X / Twitter](https://x.com/sam_khobby)  
 - 🔜 Website: Coming soon  
-
-> (If “gamil.com” was a typo for “gmail.com”, update before publishing.)
 
 ---
 
