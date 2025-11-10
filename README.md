@@ -1,4 +1,4 @@
-# Hi, I'm Sammyjay 👋
+# Hi, I'm Sammy 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/sammyjay076?label=Follow%20me&style=for-the-badge)](https://github.com/sammyjay076)
 [![GitHub stars](https://img.shields.io/github/stars/sammyjay076?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)](https://github.com/sammyjay076?tab=repositories)
@@ -11,7 +11,6 @@
 
 ## About Me
 
-- 💬 Pronouns: He/Him/His  
 - 💼 Role: Software Engineer  
 - 📍 Location: Accra, Ghana (Timezone: GMT+0)  
 - 🧭 Focus: Mobile development with React Native — I care about efficiency, keen detail, and top‑notch software engineering practices.  
@@ -50,74 +49,28 @@
 
 ---
 
-## Impact at a Glance
-
-- Performance
-  - Cold start: <before>s → <after>s (−<delta>%)
-  - Bundle size: <before MB> → <after MB> (−<delta>%)
-  - App install size: <before MB> → <after MB> (−<delta>%)
-  - Crash‑free sessions: <value>% over <period>
-  - ANR rate (Android): <value>% (P95 frame time: <ms>)
-- Product
-  - Monthly Active Users (MAU): <n>
-  - Day‑30 retention: <value>%
-  - Conversion (key flow): <value>%
-  - Store rating: <value>⭐ across <n> reviews
-- Delivery
-  - Release cadence: <n>/month
-  - Lead time for change: <hours/days>
-  - Mean time to restore: <minutes/hours>
-
-> Replace placeholders with your numbers once measured. See “How these metrics are measured” below.
-
----
-
 ## Featured Projects
 
 - 🎉 **Gathr** — [Gathr-Online/Gathr-2.0](https://github.com/Gathr-Online/Gathr-2.0)  
   Event discovery & engagement platform with a seamless mobile experience.  
   Stack: React Native, TypeScript, Firebase, GraphQL  
-  ![Stars](https://img.shields.io/github/stars/Gathr-Online/Gathr-2.0?style=social)  
-  Impact:
-  - Cold start: <before>s → <after>s (−<delta>%)
-  - Crash‑free sessions: <value>% (last 30 days)
-  - MAU: <n> · Release cadence: <n>/month
+  ![Stars](https://img.shields.io/github/stars/Gathr-Online/Gathr-2.0?style=social)
 
 - 💄 **Smyles Beauty** — [sammyjay076/smyles](https://github.com/sammyjay076/smyles)  
   Beauty commerce & booking with polished mobile flows.  
   Stack: React Native, TypeScript, Firebase  
-  ![Stars](https://img.shields.io/github/stars/sammyjay076/smyles?style=social)  
-  Impact:
-  - Checkout conversion: <value>% → <value>%
-  - App size: <before MB> → <after MB> (−<delta>%)
-  - Rating: <value>⭐ (<n> reviews)
+  ![Stars](https://img.shields.io/github/stars/sammyjay076/smyles?style=social)
 
-- 🔐 **Rizzen Backend** — [sammyjay076/rizzen-backend](https://github.com/sammyjay076/rizzen-backend)  
-  Backend services powering secure interactions and business logic.  
-  Stack: Node.js, TypeScript, GraphQL/Firebase  
-  ![Stars](https://img.shields.io/github/stars/sammyjay076/rizzen-backend?style=social)  
-  Impact:
-  - P95 API latency: <before ms> → <after ms> (−<delta>%)
-  - Error rate: <before %> → <after %> (−<delta>%)
-  - Uptime: <value>% (last 90 days)
 
 - 🚚 **Gathr Delivery App** — [Gathr-Online/gathr-delivery-app](https://github.com/Gathr-Online/gathr-delivery-app)  
   Companion logistics/delivery app for the Gathr ecosystem.  
   Stack: React Native, TypeScript, Firebase  
-  ![Stars](https://img.shields.io/github/stars/Gathr-Online/gathr-delivery-app?style=social)  
-  Impact:
-  - Route screen FPS: <value> → <value> (jank −<delta>%)
-  - Bundle size: <before MB> → <after MB> (−<delta>%)
-  - Delivery task success rate: <value>% 
+  ![Stars](https://img.shields.io/github/stars/Gathr-Online/gathr-delivery-app?style=social)
 
 - 🏢 **Merson Capital Website** — [Merson-Capital/MCL](https://github.com/Merson-Capital/MCL)  
   Corporate web presence with a clean, responsive interface.  
   Stack: Next.js, TypeScript, Tailwind CSS  
-  ![Stars](https://img.shields.io/github/stars/Merson-Capital/MCL?style=social)  
-  Impact:
-  - Lighthouse Perf: <score> · TTI: <s> · FCP: <s>
-  - Build time: <before s> → <after s> (−<delta>%)
-  - Pages indexed: <n> (Core Web Vitals passing: <value>%)
+  ![Stars](https://img.shields.io/github/stars/Merson-Capital/MCL?style=social)
 
 > Pin 4–6 of these for maximum profile impact.
 
@@ -152,27 +105,6 @@
 
 ---
 
-## How these metrics are measured (quick guide)
-
-- React Native performance
-  - Cold start & TTI: Xcode Instruments (Time Profiler), Android Profiler, Hermes profiling, Flipper performance plugin.
-  - FPS/jank: Flipper UI plugin or React Native Performance libraries; track P95/P99 frame times.
-  - Bundle size: react-native-bundle-visualizer or source-map-explorer.
-  - App size: APK/IPA size from CI artifacts; compare before/after.
-- Reliability & usage
-  - Crash‑free sessions, ANR: Firebase Crashlytics/Sentry dashboards (30/90‑day windows).
-  - MAU/Retention/Conversion: Firebase Analytics/Amplitude; define events and funnels.
-- Backend
-  - Latency & error rate: API gateway/APM (e.g., Firebase Functions metrics, Cloud Logging, or Sentry Performance).
-  - Uptime: Status page or cloud provider SLIs.
-- Delivery
-  - Cadence & lead time: GitHub Insights/Dev stats (deploy frequency, PR lead time).
-  - Build time: CI logs; export average/min/max.
-
-> Keep raw numbers in a private doc; update the README quarterly with the latest highlights.
-
----
-
 ## Fun Facts & Hobbies
 
 - ⚽ Football fan & casual player  
@@ -186,15 +118,20 @@
 
 ## Contact
 
-- 📫 Email: boakyesamuel076@gmail.com  
+- 📫 Email: boakyesamuel076@mail.com
 - 💼 Open to: Freelance & collaboration  
 - 🐦 Best contact: DM on [X / Twitter](https://x.com/sam_khobby)  
 - 🔜 Website: Coming soon  
 
 ---
 
-<!-- Maintenance notes
-- Refresh metrics and “Impact at a Glance” quarterly.
-- Prefer deltas (before → after with %) over absolute claims.
-- Link to public dashboards when possible.
--->
+## Next Improvements (Internal Notes)
+
+- Add impact metrics (e.g., user counts, performance % improvements, release cadence).  
+- Add a portfolio site & case studies section.  
+- Include CI/build status badges once public pipelines exist.  
+- Consider a short “Architecture Principles” section if you publish reusable patterns.  
+
+---
+
+_Thanks for visiting!_ ✨
