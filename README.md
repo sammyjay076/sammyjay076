@@ -61,10 +61,6 @@
   Stack: React Native, TypeScript, Firebase  
   ![Stars](https://img.shields.io/github/stars/sammyjay076/smyles?style=social)
 
-- 🔐 **Rizzen Backend** — [sammyjay076/rizzen-backend](https://github.com/sammyjay076/rizzen-backend)  
-  Backend services powering secure interactions and business logic.  
-  Stack: Node.js, TypeScript, GraphQL/Firebase  
-  ![Stars](https://img.shields.io/github/stars/sammyjay076/rizzen-backend?style=social)
 
 - 🚚 **Gathr Delivery App** — [Gathr-Online/gathr-delivery-app](https://github.com/Gathr-Online/gathr-delivery-app)  
   Companion logistics/delivery app for the Gathr ecosystem.  
