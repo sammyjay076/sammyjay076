@@ -1,24 +1,121 @@
-# 💫 About Me:
-🔭 I’m currently working on Next.js applications<br>👯 I’m looking to collaborate on  interesting project ideas<br>🤝 I’m looking for help with moving into the Cyberspace<br>🌱 I’m currently learning Web3<br>💬 Ask me about anything TECH<br>⚡ Fun fact: Coding will soon be as important as reading
+# Hi, I'm Sammyjay 👋
 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sammyjay076&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sammyjay076&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sammyjay076&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sammyjay076&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sammyjay076&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![GitHub followers](https://img.shields.io/github/followers/sammyjay076?label=Follow%20me&style=for-the-badge)](https://github.com/sammyjay076)
+[![GitHub stars](https://img.shields.io/github/stars/sammyjay076?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)](https://github.com/sammyjay076?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=sammyjay076&style=for-the-badge)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sammyjay076&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+- 💬 Pronouns: He/Him/His  
+- 💼 Role: Software Engineer  
+- 📍 Location: Accra, Ghana  
+- 🧭 Focus: Mobile development with React Native; I care about efficiency, keen detail, and top-notch software engineering practices.  
+- 🌱 Currently Learning: Refining cross-platform patterns (React Native ↔ Flutter), advanced GraphQL performance, and scalable design systems.  
+- 🤝 Open To: Freelance work & collaboration.  
+
+> I craft reliable mobile experiences that feel fast, polished, and maintainable under real-world constraints.
+
+---
+
+## Core Strengths
+
+- ✅ Production-grade React Native apps (architecture, performance, OTA updates)  
+- ✅ Clean component design and UI consistency with modern styling (Tailwind CSS, design tokens)  
+- ✅ API integration & state management (GraphQL, REST, caching strategies)  
+- ✅ Cross-team collaboration & iterative delivery with strong version control practices  
+
+---
+
+## Tech Stack
+
+**Languages:** JavaScript, TypeScript, HTML  
+**Frameworks & Libraries:** React Native, React, Next.js, Flutter, Tailwind CSS  
+**Platforms & Services:** Firebase, GraphQL, (Auth, Functions, Firestore), GitHub  
+**Tools:** Git, Postman, Figma  
+**Practices:** Component-driven development, API contract-first design, performance profiling, accessibility consideration  
+
+---
+
+## Featured Projects
+
+- 🚀 **Gathr** ([Gathr-Online/Gathr-2.0](https://github.com/Gathr-Online/Gathr-2.0))  
+  Event discovery & engagement platform. Focus on seamless mobile experience and scalable feature delivery.  
+  Stack: React Native, TypeScript, Firebase, GraphQL  
+- 💄 **Smyles Beauty** ([sammyjay076/smyles](https://github.com/sammyjay076/smyles))  
+  Beauty commerce & booking experience with polished UI flows.  
+  Stack: React Native, TypeScript, Firebase  
+- 🔐 **Rizzen Backend** ([sammyjay076/rizzen-backend](https://github.com/sammyjay076/rizzen-backend))  
+  Backend powering secure service interactions (API layer & business logic).  
+  Stack: Node.js, TypeScript, GraphQL/Firebase (as applicable)  
+- 🚚 **Gathr Delivery App** ([Gathr-Online/gathr-delivery-app](https://github.com/Gathr-Online/gathr-delivery-app))  
+  Companion logistics/delivery app supporting the Gathr ecosystem.  
+  Stack: React Native, TypeScript, Firebase  
+- 🏢 **Merson Capital Website** ([Merson-Capital/MCL](https://github.com/Merson-Capital/MCL))  
+  Corporate web presence with clean interface and reliable deployment.  
+  Stack: Next.js, TypeScript, Tailwind CSS  
+
+> Consider pinning 3–6 of these repositories for quick profile visibility.
+
+---
+
+## Current Focus
+
+- 🏗 Building: Enhancing mobile architecture patterns for scalable feature rollout across React Native apps.  
+- ⚡ Optimizing: Bundle size, cold-start time, and perceived responsiveness in mobile builds.  
+- 🔬 Exploring: Cross-platform UI parity strategies and Flutter vs. React Native trade-offs.  
+- 🤖 Improving: Developer velocity with component abstraction + automated testing.  
+
+---
+
+## Activity & Stats
+
+<!-- Public stat cards. Private counts included where supported. -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammyjay076&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammyjay076&layout=compact&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=sammyjay076&hide_border=true)
+
+<!-- Optional contribution graph (commented):
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sammyjay076&theme=react-dark)
+-->
+
+---
+
+## Writing & Content
+
+- 📝 Medium: [@boakyesamuel076](https://medium.com/@boakyesamuel076) (Articles on mobile engineering & practical patterns)
+- 🐦 X / Twitter: [@sam_khobby](https://x.com/sam_khobby)
+
+> Future space for articles, talks, or workshop links.
+
+---
+
+## Contact
+
+- 🌐 Website: (Coming soon)  
+- 💼 Freelance & Collaboration: Open — reach out via X or Medium  
+- 📫 Preferred channels: X DMs / Medium contact  
+
+---
+
+## Fun Facts & Hobbies
+
+- 🎮 I enjoy experimenting with UI/UX ideas in Figma to refine user flow polish.
+- ⚽ I unwind playing football and exploring tech podcasts.
+- 📚 Always learning better patterns for scalable mobile architecture.
+
+> Have a fun collaboration idea? Feel free to reach out.
+
+---
+
+## Future Improvements (Internal Notes)
+
+- Add concrete impact metrics (performance gains, user growth, delivery cadence) once published.  
+- Populate a proper website/portfolio section.  
+- Add automated badges for build status if public CI pipelines are exposed.  
+
+---
+
+_Thanks for visiting!_ ✨
