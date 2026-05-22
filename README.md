@@ -89,6 +89,7 @@
 
 - 📝 Medium: [@boakyesamuel076](https://medium.com/@boakyesamuel076)  
 - 🐦 X / Twitter: [@sam_khobby](https://x.com/sam_khobby)
+- Linkedin: linkedin.com/in/samuel-boakye-yiadom-168a70191/
 
 ---
 
